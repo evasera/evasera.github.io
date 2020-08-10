@@ -7,18 +7,21 @@ author_profile: true
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/3_2.png
+    alt: "Sun Warriors Cover"
+    title: "Sun Warriors"
+    excerpt: "Frenetic multiplayer arcade shooter, with a top down camera."
+  - image_path: /assets/images/4_3.png
+    alt: "Weather System Cover"
+    title: "Unity Weather System"
     url: "/portfolio/sun_warriors"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes and weather symulation"
+    url: "/portfolio/sun_warriors"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/16_9.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
