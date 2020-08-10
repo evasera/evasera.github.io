@@ -42,14 +42,12 @@ include:
 author:
   name: "Eva Segarra Raro"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "DESCTIPTION PENDING.
-  Line 1, bla bla bla bla bla
-  Line 2 more bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla" # Note: Markdown is allowed
+  bio: "DESCTIPTION PENDING" # Note: Markdown is allowed
   location: "Valencia, Spain"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fab fa-linkedin"
-      url: "www.linkedin.com/in/eva-segarra-raro"
+      url: "wwww.linkedin.com/in/eva-segarra-raro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evasera"
