@@ -14,13 +14,15 @@ feature_row:
     url: "/portfolio/sun_warriors"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
   - image_path: /assets/images/3_2.png
     alt: "Weather System Cover"
-    title: "Unity Weather System"
+    title: "Weather System"
     excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes and weather symulation"
     url: "/portfolio/sun_warriors"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+    
   - image_path: /assets/images/16_9.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
