@@ -10,13 +10,13 @@ feature_row:
   - image_path: /assets/images/3_2.png
     alt: "Sun Warriors Cover"
     title: "Sun Warriors"
-    excerpt: "Frenetic multiplayer arcade shooter, with a top down camera."
-  - image_path: /assets/images/4_3.png
-    alt: "Weather System Cover"
-    title: "Unity Weather System"
+    excerpt: "Frenetic multiplayer arcade shooter, with a top down camera. Developed as an academic project at ESAT"
     url: "/portfolio/sun_warriors"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/3_2.png
+    alt: "Weather System Cover"
+    title: "Unity Weather System"
     excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes and weather symulation"
     url: "/portfolio/sun_warriors"
     btn_label: "Read More"
