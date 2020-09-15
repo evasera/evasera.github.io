@@ -32,9 +32,9 @@ feature_row:
 
 ---
 
-I am a videogame programmer, recently graduated from my specialization at the School of Art and Technology (ESAT) in Valencia. 
+I am a videogames programmer, recently graduated from my specialization at the School of Art and Technology (ESAT) in Valencia. 
 
 I have always had an interest in technology and programming, which is why I previously obtained a BSC in computer science. As part of my studies, I also spent a year at Reykjavik University, where I had the oportunity to take subjects related to videogames, whitch i had always had a passion for. That led me to realize I wanted to pursue it as a profesional carreer, and to obtain an HND in videogammes programming.
 
-This is a hilight of some of my projects:
+**Project highlights**
 {% include feature_row %}
