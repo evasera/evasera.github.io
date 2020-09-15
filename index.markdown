@@ -32,6 +32,9 @@ feature_row:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis laoreet lacinia. Duis sem metus, ultricies vitae tristique at, mollis nec dolor. Suspendisse sagittis metus enim, vitae sagittis odio commodo in. Morbi finibus mi non laoreet aliquam. Nullam id libero non erat venenatis lacinia vel id lorem. Sed ornare urna ac suscipit rhoncus. Vestibulum sit amet nunc cursus, consequat turpis et, faucibus urna. Phasellus scelerisque sodales ipsum id mollis. Nulla sodales semper ultrices.
+I am a videogame programmer, recently graduated from my specialization at the School of Art and Technology (ESAT) in Valencia. 
+
+I have always had an interest in technology and programming, which is why I previously obtained a BSC in computer science. As part of my studies, I also spent a year at Reykjavik University, where I had the oportunity to take subjects related to videogames, whitch i had always had a passion for. That led me to realize I wanted to pursue it as a profesional carreer, and to obtain an HND in videogammes programming.
+
 
 {% include feature_row %}
