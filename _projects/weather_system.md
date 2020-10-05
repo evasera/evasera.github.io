@@ -15,6 +15,8 @@ a ser desarollado en un plazo de 10 semanas con la ayuda de un tutor que hace de
 --basicamente aqui un resumen de detalles, lenguaje , motor, tiempo de desarollo
 
 ## Objective ##
+(mezclar con lo de arriba)
+
  This project covers the development of a unity3D plugin developed in C #, whose objective is to implement a dynamic weather simulation system. In addition to the weather calculations, this system includes a day and night cycle, which will allow the variation in the number of hours of light and changing seasons and the ability to mark different areas. For its part, the weather will be determined according to the season and the characteristics of the environment.
  
 To increase the flexibility of the system parameters such as simulation speed, environmental characteristics, or the amount and influence of the seasons on the climate will be configurable. This allows the system to be used both in environments that seek realism and in other more fantastic ones.
