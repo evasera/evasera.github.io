@@ -36,7 +36,6 @@ The system is higly custumizable, allowing the user to decide the intensity rand
 The following graphic shows the intensity variation of the clouds over time for tho different systems with equal range, but different standard deviation.
  -- hay que buscar un nombre diferente para el parametro.
 
-(insertar grafica de veriacion de nubes )
 ![Cloud Intensity Over Time](/assets/images/Cloud_Intensity_Graphic.PNG)
 
 # aditional features#
@@ -57,6 +56,4 @@ The plugin allows for the users to create a completely custoizable calendar, and
 
 As useful as seasonal chandes are, they come at a high price, having to create that may more assets, on top of managing the existing ones. In order to lessen this issue, on top of being used on the system demonstration as a visual queue for the season, this project includes scripts to hepl manage asseets, either changing an asset color (tree leaves changing from green to orange), fading an asset in and out (flowers only visible on spring and summer), or swaping a mesh completely (Trees swaped for a snow covered version for winter).
 
-(Imagen del mismo sitio en las 4 estaciones)
-
-
+![Same Scene on different Seasons](/assets/images/Season_Change.png)
