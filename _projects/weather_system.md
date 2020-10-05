@@ -37,7 +37,7 @@ The following graphic shows the intensity variation of the clouds over time for 
  -- hay que buscar un nombre diferente para el parametro.
 
 (insertar grafica de veriacion de nubes )
-![Cloud Intensity Over Time](/assets/images/Cloud_Intensity_Graphic.jpg)
+![Cloud Intensity Over Time](/assets/images/Cloud_Intensity_Graphic.PNG)
 
 # aditional features#
 ## Day and Night Cycle ##
