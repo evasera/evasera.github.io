@@ -15,7 +15,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/3_2.png
+  - image_path: /assets/images/Weather_System.png
     alt: "Weather System Cover"
     title: "Weather System"
     excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes and weather symulation."
