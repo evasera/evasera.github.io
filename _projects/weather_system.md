@@ -8,7 +8,7 @@ classes: wide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06J-OFtbp_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
   
-# The Project
+## The Project
 This project covers the development of a unity3D plugin developed in C #, whose objective is to implement a dynamic weather simulation system. In addition to the weather calculations, this system includes a day and night cycle, which will allow the variation in the number of hours of light and changing seasons. For its part, the weather will be determined according to the season and the characteristics of the environment.
 
 This was my final project for my bachelors degree at the polithecnic university of valencia. 
@@ -25,7 +25,7 @@ this project proposes an altenative model, in wich the weather state is represen
 An aditional advantage for the model, found after the development is eficiency, due to the mathematical model used most of the calculations can be made in advance, making the cost to calculate the next weather state as the cost of creating four random numbers and 4 acceses to a matrix (four because the system currently has four weather variables). Unlike calculating a state transition, the cost on this model is consistent, leading to a lot of predictability, wich should help developers better manage the impact the system will have on the game.
   
 
-# aditional features
+# aditional features:
 ## Day and Night Cycle 
 The plug in comes with a copletely custoizable day and night cycle, with variable hours of light for each day depending on the date. This will be determined by the user introducing the solstices and equinoxes dates and the amount of hors of light on those dates.
 
