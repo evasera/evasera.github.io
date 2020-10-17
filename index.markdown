@@ -6,6 +6,9 @@ layout: single
 author_profile: true
 classes: wide
 
+
+[comment]: <> (
+
 feature_row:
   - image_path: /assets/images/sun_warriors.png
     alt: "Sun Warriors Cover"
@@ -23,12 +26,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/3_2.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/portfolio/sun_warriors"
+  - image_path: /assets/images/Beacon.png
+    title: "Beacon Engine"
+    excerpt: "3D games Engine developed at ESAT Valencia, using C++ and OpenGL."
+    url: "/portfolio/beacon_engine"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+    )
 
 ---
 (hablar luego con david, )
