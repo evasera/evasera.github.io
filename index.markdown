@@ -7,8 +7,6 @@ author_profile: true
 classes: wide
 
 
-[comment]: <> (
-
 feature_row:
   - image_path: /assets/images/sun_warriors.png
     alt: "Sun Warriors Cover"
@@ -32,7 +30,7 @@ feature_row:
     url: "/portfolio/beacon_engine"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-    )
+
 
 ---
 (hablar luego con david, )
