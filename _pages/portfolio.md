@@ -21,17 +21,10 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/3_2.png
+  - image_path: /assets/images/Beacon.png
     title: "Beacon Engine"
-    excerpt: "3D graphics engine developed using c++ and OpenGL, developed as part of the ESAT curriculum."
-    url: "/portfolio/sun_warriors"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
-  - image_path: /assets/images/dungeon_Cover.png
-    title: "Unity3D Dungeon Generation"
-    excerpt: "Basic Dungeon generation using Unity, developed as a student project at ESAT."
-    url: "/portfolio/dungeon_generation"
+    excerpt: "3D games Engine developed at ESAT Valencia, using C++ and OpenGL."
+    url: "/portfolio/beacon_engine"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
