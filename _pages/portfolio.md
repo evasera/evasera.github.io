@@ -3,7 +3,6 @@ layout: single
 permalink: /portfolio/
 classes: wide
 
-
 feature_row:
   - image_path: /assets/images/sun_warriors.png
     alt: "Sun Warriors Cover"
@@ -15,8 +14,8 @@ feature_row:
 
   - image_path: /assets/images/Weather_System.png
     alt: "Weather System Cover"
-    title: "Weather System"
-    excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes and weather symulation."
+    title: "Unity Weather System"
+    excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes, and weather simulation."
     url: "/portfolio/weather_system"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -27,7 +26,6 @@ feature_row:
     url: "/portfolio/beacon_engine"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
 ---
 
 {% include feature_row %}
