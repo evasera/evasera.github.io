@@ -33,7 +33,7 @@ feature_row:
 
 
 ---
-I am a videogames programmer, recently graduated from the School of Art and Technology (ESAT) in Valencia. As part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors)
+I am a videogames programmer, recently graduated from the School of Art and Technology (ESAT) in Valencia. As part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors).
 
 I have always been an enthusiast of videogames and computers, which is why I decided to study computer science. First I obtained a BSc in Computer Science at the Polytechnic University of Valencia (UPV), and I spent a year at Reykjavik University as an exchange student, where I had the opportunity to take subjects related to videogames. That reignited my passion for videogames development, and once I came back, I chose to make a final project related to videogames, [Unity Weather System](/portfolio/weather_system). After my graduation, I decided that I wanted to deepen my knowledge of videogames development, so I enrolled in ESAT's HNd in Videogames Programming. 
 
