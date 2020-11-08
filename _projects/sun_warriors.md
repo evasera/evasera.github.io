@@ -24,6 +24,6 @@ This game has been developed by a team of students from ESAT Valencia as part of
 - Duration: 10 months
 
 ## My work contribution
-My biggest contribution to the project was as part of the team in charge of researching and implementing Unreal Engine replication, adapting our game into an online Multiplayer game. As this involved adapting the rest of the team's work, I gained a basic understanding of how most of the game elements were implemented, this meant that whenever there was help or small tasks that were needed I was in an ideal position to help out.
+My biggest contribution to the project was as part of the team in charge of researching and implementing Unreal Engine replication, adapting our game into an online Multiplayer game. As this involved changing the rest of the team's work, I gained a basic understanding of how most of the game elements were implemented, this meant that whenever there was help or small tasks that were needed I was in an ideal position to help out.
 
 Other than replication, my two biggest contributions to the project were the implementation of the enemy spawners, both as spawning predefined waves and an infinite spawner with increasing difficulty for the arena mode, and all of the level scripting for the narrative maps, including narrative, puzzles, level streaming, and several interactable elements.
