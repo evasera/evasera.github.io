@@ -14,7 +14,7 @@ During a terrible solar eclipse, Aysel opens multiple portals pouring thousands 
 
 Players will have to team up in this frenetic top-down arcade game, either locally or online.
 
-Sun Warriors was featured on [Unreal Engine's Fall Student Showcase](https://youtu.be/yfJq1vD8yNA?t=79).  
+Sun Warriors was featured on [Unreal Engine's Fall Student Showcase]( <a href="https://youtu.be/yfJq1vD8yNA?t=79" target="_blank">).  
 
 ## Details
 This game has been developed by a team of students from ESAT Valencia as part of our studies. The team was composed of 7 programmers, 4 artists, and 2 collaborator artists. Additionally, we worked with 4 musicians from the Berklee Academy of Music.
