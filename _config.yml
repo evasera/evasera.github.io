@@ -46,8 +46,8 @@ author:
   location: "Valencia, Spain"
   links:
     - label: segarra.eva@gmail.com
-      #icon: "fas fa-envelope"
-      url: segarra.eva@gmail.com
+      icon: "fas fa-envelope"
+      #url: segarra.eva@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fab fa-linkedin"
       url: "https://linkedin.com/in/eva-segarra-raro"
