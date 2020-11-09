@@ -45,6 +45,9 @@ author:
   #bio: "  " # Note: Markdown is allowed
   location: "Valencia, Spain"
   links:
+    - label: email
+      icon: "fas fa-envelope"
+      text: segarra.eva@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fab fa-linkedin"
       url: "https://linkedin.com/in/eva-segarra-raro"
