@@ -17,6 +17,7 @@ During a terrible solar eclipse, Aysel opens multiple portals pouring thousands 
 {: style="text-align: justify" }
 Players will have to team up in this frenetic top-down arcade game, either locally or online.
   
+    
 {: style="text-align: justify" }
 Sun Warriors was featured on [Unreal Engine's Fall Student Showcase](https://youtu.be/yfJq1vD8yNA?t=79){:target="_blank"}.  
 
