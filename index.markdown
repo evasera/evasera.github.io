@@ -45,4 +45,4 @@ I have always been an enthusiast of videogames and computers, which is why I dec
 From all the disciplines I´ve studied, I love working on gameplay and AI the most. As for programming languages, I am most confident working with C++, C#, and Java.
 
 {: style="text-align: justify" }
-Currently, I'm looking for a position in the games industry where I can continue learning and improving myself, but most of all, I am looking forward to contributing to creating videogames that people can enjoy. Meanwhile, I am working on a Turn-Based Combat System with an AI to match using Unreal Engine and based on the Open-Source rules Dungeons and Dragons 5E.
+Currently, I'm looking for a position in the games industry where I can continue learning and improving myself, but most of all, I am looking forward to contributing to creating videogames that people can enjoy. Meanwhile, I am working on a Turn-Based Combat System with an AI to fight the player using Unreal Engine and based on the Open-Source rules Dungeons and Dragons 5E.
