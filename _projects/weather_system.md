@@ -55,8 +55,12 @@ The plugin allows for the users to create a customizable calendar, and seasons, 
 As useful as seasonal changes are, they come at a high price, having to create that many more assets, on top of managing the existing ones. To lessen this issue, on top of being used on the system demonstration as a visual queue for the season, this project includes scripts to help manage assets, either changing an asset color (tree leaves changing from green to orange), fading an asset in and out (flowers only visible on spring and summer), or swapping a mesh completely (Trees swapped for a snow-covered version for winter).
 
 # Assets Used for the Demo:
-The following assets were used in order to create the demonstration environment, but are not necesary in order to use the system.
-[Unity Particle Pack – Unity technologies](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-73777).  
+The following assets were used in order to create the demonstration environment, but are not necesary in order to use the system.  
+
+[Unity Particle Pack – Unity technologies](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-73777). 
+
 [Post Processing Stack – Unity Technologies](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912).  
+
 [Low Poly Trees Seasons – GBANDREWGB](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-trees-seasons-67486).  
+
 [Water Effect Fits For Lowpoly Style – Pure Evil Studio](https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810).
