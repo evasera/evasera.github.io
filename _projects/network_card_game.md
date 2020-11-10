@@ -5,24 +5,24 @@ permalink: /portfolio/network_card_game
 classes: wide
 
 gallery:
-  - url: /assets/images/card_game_server_conection.png
+  - url: /assets/images/card_game_server_conection_full.png
     image_path: /assets/images/card_game_server_conection.png
     #alt: "placeholder image 1"
     #title: "Image 1 title caption"
-  - url: /assets/images/card_game_cient_conection.png
+  - url: /assets/images/card_game_cient_conection_full.png
     image_path: /assets/images/card_game_cient_conection.png
     #alt: "placeholder image 2"
     #title: "Image 2 title caption"
-  - url: /assets/images/card_game_ingame.png
+  - url: /assets/images/card_game_ingame_full.png
     image_path: /assets/images/card_game_ingame.png
     #alt: "placeholder image 3"
     #title: "Image 3 title caption"
-  - url: /assets/images/card_game_cient_conection.png
+  - url: /assets/images/card_game_cient_conection_full.png
     image_path: /assets/images/card_game_cient_conection.png
 ---
 
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery %}
 
 # About the Game #
 {: style="text-align: justify" }
