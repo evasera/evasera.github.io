@@ -1,5 +1,5 @@
 ---
-title:  Untitled Network Card Game
+title:  Network Card Game
 layout: single
 permalink: /portfolio/network_card_game
 classes: wide
@@ -17,8 +17,10 @@ gallery:
     image_path: /assets/images/card_game_ingame.png
     #alt: "placeholder image 3"
     #title: "Image 3 title caption"
-  - url: /assets/images/card_game_cient_conection_full.png
-    image_path: /assets/images/card_game_cient_conection.png
+  - url: /assets/images/card_game_referee_full.png
+    image_path: /assets/images/card_game_referee.png
+  - url: /assets/images/card_game_victory_full.png
+    image_path: /assets/images/card_game_victory.png
 ---
 
 
