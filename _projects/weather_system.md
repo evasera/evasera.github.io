@@ -61,7 +61,10 @@ As useful as seasonal changes are, they come at a high price, having to create t
 {: style="text-align: justify" }
 The following assets were used in order to create the demonstration environment, but are not necesary in order to use the system.  
 
-[Unity Particle Pack – Unity technologies](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-73777). 
+[Unity Particle Pack – Unity technologies](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-73777).
+
 [Post Processing Stack – Unity Technologies](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912).  
+
 [Low Poly Trees Seasons – GBANDREWGB](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-trees-seasons-67486).  
+
 [Water Effect Fits For Lowpoly Style – Pure Evil Studio](https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810).
