@@ -15,15 +15,22 @@ feature_row:
   - image_path: /assets/images/Weather_System.png
     alt: "Weather System Cover"
     title: "Unity Weather System"
-    excerpt: "Weather System prepared to be included in Unity 3D projects. Includes Day and Night Cycles, Seasonal changes, and weather simulation."
+    excerpt: "Weather system prepared to be included in Unity 3D projects. Includes day and bight cycles, seasonal changes, and weather simulation."
     url: "/portfolio/weather_system"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
   - image_path: /assets/images/Beacon.png
     title: "Beacon Engine"
-    excerpt: "3D games Engine developed at ESAT Valencia, using C++ and OpenGL."
+    excerpt: "3D games engine developed at ESAT Valencia, using C++ and OpenGL."
     url: "/portfolio/beacon_engine"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    
+  - image_path: /assets/images/card_game_cover.png
+    title: "Network Card Game"
+    excerpt: "Online card game developed at ESAT Valencia, using C++."
+    url: "/portfolio/network_card_game"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

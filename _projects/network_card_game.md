@@ -27,10 +27,10 @@ gallery:
 {% include gallery %}
 # About the Game #
 {: style="text-align: justify" }
-Developed as part of my studies at ESAT in partnership with Christina Barreiro. 
+Developed as part of my studies at ESAT in partnership with Cristina Barreiro. 
 
 {: style="text-align: justify" }
-The game is an extremely simplified version of the Witcher's 3 Gwent minigame, slightly adapted to fulfill the assignment requisites, among them adding an additional role of a live referee who can at any moment alter a card's properties or the state of the board.
+The game is an online two-player card game, created as an extremely simplified version of the Witcher's 3 Gwent minigame, and slightly adapted to fulfill the assignment requisites, among them adding an additional role of a live referee who can at any moment alter a card's properties or the state of the board. 
 
 The Game plays as follows:
 
@@ -45,16 +45,17 @@ on the board. The winner will be the best of three rounds.
 Players must manage their cards so that they can endure all the rounds, as the cards handed at the beginning of the game are all they are going to get.
 
 # Details #
+
 {: style="text-align: justify" }
 The game was developed in C++, making use of winsock2 to handle network communications, and the protocol used was TCP, as the team considered that a card game was slow-paced enough that the speed difference with UDP was not relevant.
 
 {: style="text-align: justify" }
-The game server hosts the Card database and sends it to the clients at the beginning of the game, increasing the time to start the game but ensuring that clients are all playing with the latest updates.
+The game server hosts the card database and sends it to the clients at the beginning of the game, increasing the time to start the game but ensuring that clients are all playing with the latest updates.
 
 {: style="text-align: justify" }
 All the game's logic is checked only in the server, which also acts as the referee, meaning that the client-side does only have the UI and the input detection.
 
-- platform: PC
+- Platform: Windows
 - Language: C++, MySQL 
 - Libraries used: sfml, imgi, sqlite, and winsock2.h
 
@@ -65,4 +66,4 @@ All the game's logic is checked only in the server, which also acts as the refer
  - Created the database and the access to it in the code
  
 {: style="text-align: justify" }
-Maybe not the most relevant, but I also designed the placeholder cards using royalty-free images and basic shapes. 
+Not the most relevant, but I also designed the placeholder cards using royalty-free images and basic shapes. 
