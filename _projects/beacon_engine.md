@@ -10,7 +10,7 @@ classes: wide
   
 ## The Project  
 {: style="text-align: justify" }
-A 3D game engine developed in collaboration with [Alberto Lario Santos](https://www.linkedin.com/in/alberto-lario-santos-8685391b3/). 
+A 3D game engine developed in collaboration with [Alberto Lario Santos](https://www.linkedin.com/in/alberto-lario-santos-8685391b3/){:target="_blank"}. 
 
 - Languages: c++, OpenGL
 - Duration: 10 months
