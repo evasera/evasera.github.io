@@ -8,7 +8,8 @@ classes: wide
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wuh0pfqeew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   
-## The Project  
+## The Project ##
+
 {: style="text-align: justify" }
 A 3D game engine developed in collaboration with [Alberto Lario Santos](https://www.linkedin.com/in/alberto-lario-santos-8685391b3/){:target="_blank"}. 
 

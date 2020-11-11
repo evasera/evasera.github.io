@@ -19,7 +19,8 @@ This was my final project for my bachelors degree at the Polytechnic University 
 {: style="text-align: justify" }
 This project only covers the calculations for the weather state and the regulation of the internal logic but does not aim to provide any visualization for the obtained results. Mainly because I do not have the artistic expertise required to do so, but also because those will need to match the artistic style of each game.
  
-## Proposal ##  
+## Proposal ##
+
 {: style="text-align: justify" }
 The most common implementation for dynamic weather, to my knowledge, is through the use of state machines. they are intuitive and easy to implement however they can be repetitive as the number of states is limited and they tend to have the same representation, and more relevant to this proposal, state machines do not offer many advantages when it comes to world elements interacting with the weather. 
   
@@ -34,7 +35,8 @@ An additional advantage for the model, found after the development is efficiency
   
 
 # Additional Features:
-## Day and Night Cycle   
+## Day and Night Cycle ##
+
 {: style="text-align: justify" }
 The plug-in comes with a completely customizable day and night cycle, with variable hours of light for each day depending on the date. This will be determined by the user introducing the solstices and equinoxes dates and the number of hours of light on those dates.
   
@@ -54,14 +56,12 @@ The plugin allows for the users to create a customizable calendar, and seasons, 
 {: style="text-align: justify" }
 As useful as seasonal changes are, they come at a high price, having to create that many more assets, on top of managing the existing ones. To lessen this issue, on top of being used on the system demonstration as a visual queue for the season, this project includes scripts to help manage assets, either changing an asset color (tree leaves changing from green to orange), fading an asset in and out (flowers only visible on spring and summer), or swapping a mesh completely (Trees swapped for a snow-covered version for winter).
 
-# Assets Used for the Demo:
+# Assets Used for the Demo: ##
+
 {: style="text-align: justify" }
 The following assets were used in order to create the demonstration environment, but are not necesary in order to use the system.  
 
 [Unity Particle Pack – Unity technologies](https://assetstore.unity.com/packages/essentials/asset-packs/unity-particle-pack-73777). 
-
 [Post Processing Stack – Unity Technologies](https://assetstore.unity.com/packages/essentials/post-processing-stack-83912).  
-
 [Low Poly Trees Seasons – GBANDREWGB](https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-trees-seasons-67486).  
-
 [Water Effect Fits For Lowpoly Style – Pure Evil Studio](https://assetstore.unity.com/packages/vfx/shaders/water-effect-fits-for-lowpoly-style-87810).
