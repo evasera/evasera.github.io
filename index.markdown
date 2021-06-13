@@ -36,10 +36,10 @@ feature_row:
 ![Photo](/assets/images/about_me_photo.png)
   
 {: style="text-align: justify" }
-I am a videogames programmer, currently working at [Brave Zebra](http://bravezebra.com/) a game outsourcing studio specialized in Unity. I have participated in multiple projects taking on a wide variety of tasks, but mostly Networking, User Interfaces and several Gameplay Mechanics.
+I am a video games programmer, currently working at [Brave Zebra](http://bravezebra.com/) a game outsourcing studio specialized in Unity. I have participated in multiple projects taking on a wide variety of tasks, but mostly Networking, User Interfaces and several Gameplay Mechanics.
 
 {: style="text-align: justify" }
-I have always been an enthusiast of videogames and computers, which is why I decided to study computer science. First I obtained a BSc in Computer Science at the Polytechnic University of Valencia (UPV), and I spent a year at Reykjavik University as an exchange student, where I had the opportunity to take subjects related to videogames. That reignited my passion for videogames development, and once I came back, I chose to make a final project related to videogames, [Unity Weather System](/portfolio/weather_system). After my graduation, I decided that I wanted to deepen my knowledge of videogames development, so I enrolled in ESAT's HNd in Videogames Programming, as part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors). 
+I have always been an enthusiast of video games and computers, which is why I decided to study computer science. First I obtained a BSc in Computer Science at the Polytechnic University of Valencia (UPV), and I spent a year at Reykjavik University as an exchange student, where I had the opportunity to take subjects related to video games. That reignited my passion for video games development, and once I came back, I chose to make a final project related to video games, [Unity Weather System](/portfolio/weather_system). After my graduation, I decided that I wanted to deepen my knowledge of video games development, so I enrolled in ESAT's HNd in Video games Programming, as part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors). 
 
 {: style="text-align: justify" }
 From all the disciplines I´ve studied, I love working on gameplay and AI the most. As for programming languages, I am most confident working with C++, C#, and Java.
