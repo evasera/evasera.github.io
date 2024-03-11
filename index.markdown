@@ -33,13 +33,15 @@ feature_row:
 
 
 ---
-![Photo](/assets/images/about_me_photo.png)
+{: style="text-align: justify" }
+I have always been an enthusiast of video games and computers, which is why I decided to study computer science. First I obtained a BSc in Computer Science at the Polytechnic University of Valencia (UPV). I spent a year at Reykjavik University as an exchange student, where I had the opportunity to take subjects related to video games. That reignited my passion for video games development, and once I came back, I chose to make a final project related to video games, [Unity Weather System](/portfolio/weather_system). After my graduation, I decided that I wanted to deepen my knowledge of video games development, so I enrolled in ESAT's HNd in Video games Programming. As part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors). 
   
 {: style="text-align: justify" }
-I am a video games programmer, currently working at [Brave Zebra](http://bravezebra.com/) a game outsourcing studio specialized in Unity. I have participated in multiple projects taking on a wide variety of tasks, but mostly Networking, User Interfaces and several Gameplay Mechanics.
+I am currently working as a gameplay programmer at [Black Forest Games](https://black-forest-games.com/). My focus has been on combat gameplay for a third person action game, working closely with designers and animators to implement a variety of combat mechanics, including syncronized actions between the player character and the enemy NPCs. This was all done usig the new Unreal Engine's ECS framework ([MASS Entity](https://docs.unrealengine.com/5.0/en-US/overview-of-mass-entity-in-unreal-engine/)). I also overhauled the existing camera system,  implementing several camera behaviours geared towards increasing visibility during combat or traversal sections, allowing the game designers to deliver a more impactful experience. 
 
 {: style="text-align: justify" }
-I have always been an enthusiast of video games and computers, which is why I decided to study computer science. First I obtained a BSc in Computer Science at the Polytechnic University of Valencia (UPV), and I spent a year at Reykjavik University as an exchange student, where I had the opportunity to take subjects related to video games. That reignited my passion for video games development, and once I came back, I chose to make a final project related to video games, [Unity Weather System](/portfolio/weather_system). After my graduation, I decided that I wanted to deepen my knowledge of video games development, so I enrolled in ESAT's HNd in Video games Programming, as part of my studies there, I developed [Sun Warriors](/portfolio/sun_warriors). 
+Prior to that, I worked at [Brave Zebra](http://bravezebra.com/), a game outsourcing studio, participating in multiple projects and taking on a wide variety of tasks:
 
-{: style="text-align: justify" }
-From all the disciplines I´ve studied, I love working on gameplay and AI the most. As for programming languages, I am most confident working with C++, C#, and Java.
+- I implemented several HUD elements for [Endling - Extinction is Forever](https://store.steampowered.com/app/898890/Endling__Extinction_is_Forever/), a survival adventure game developed in Unreal Engine 4.
+- Implemented gameplay systems and AI behaviours, as well as part of the networking using [Photon PUN](https://www.photonengine.com/pun#) for an Online Multiplayer game made with Unity.
+- Worked on a 2d turn based RPG, implementing UI elements, several gameplay mechanics, including the quest system.
