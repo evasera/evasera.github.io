@@ -43,7 +43,7 @@ author:
   name: "Eva Segarra Raro"
   avatar: "/assets/images/profile.jpg"
   #bio: "  " # Note: Markdown is allowed
-  location: "Valencia, Spain"
+  location: "Offenburg, Germany"
   links:
     - label: segarra.eva@gmail.com
       icon: "fas fa-fw fas fa-envelope"
@@ -51,9 +51,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fab fa-linkedin"
       url: "https://linkedin.com/in/eva-segarra-raro"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/evasera"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/evasera"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
